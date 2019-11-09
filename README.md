@@ -19,7 +19,7 @@ Recognizing human activities using transfer learnig concept. Here transfer learn
 - **PyTorch**
 
 # Description
-- **Activities** for the WISDM dataset
+- **Activities** for the WISDM dataset <br/>
 ![](images/activities.png)
 
 - Test Accuracy : **56.3950%**
